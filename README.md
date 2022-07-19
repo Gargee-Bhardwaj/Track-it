@@ -13,7 +13,7 @@
 - NodeJS
 - CLI
 
-#### The Server should now be running at http://localhost:3000/
+#### The Server runs at http://localhost:3000/
 
 ## Folder Structure
 
